@@ -18,6 +18,16 @@ The choice is yours however the output should be printed clearly for evaluation.
 
 #### Sample input & output
 
+The format to add a child is:
+
+```ADD_CHILD "Mother’s-Name" "Child's-Name" "Gender"```
+
+The format to query a relationship is:
+
+```GET_RELATIONSHIP "Name" "Relationship"```
+
+Here are some examples of tests to help implement the solution:
+
 | Input | Output |
 --------|--------|
 ADD_CHILD Ginerva John Male | CHILD_ADDITION_SUCCEEDED
