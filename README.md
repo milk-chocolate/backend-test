@@ -2,12 +2,6 @@
 
 This challenge will evaluate how you approach solving a real-world problem and your object oriented fundamentals. Getting the output correct is important but how you write the code is the most important aspect of this test.
 
-## Keep in mind
-
-* We must be able to run your solution.
-* Make sure you add a README file. 
-* If we cannot run the solution it will affect your evaluation.
-
 ## The problem
 
 Write code to model the provided family tree so that:
@@ -52,6 +46,9 @@ These are the relationships we should be able to find:
 
 ## Final considerations
 
+* We must be able to run your solution.
+* Make sure you add a README file. 
+* If we cannot run the solution it will affect your evaluation.
 * We recommend you do not spend more than 6 hours on this problem.
 * If you do not implement all scenarios that is OK.
 
