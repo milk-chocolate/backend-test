@@ -13,8 +13,7 @@ Write code to model the provided family tree so that:
 
 ## Format required for input and output
 
-How you input and output data is completely up to you.  It could be via a text file, via a web form or using the command line.
-The choice is yours however the output should be printed clearly for evaluation.
+We recommend that input and output occur via a terminal. However, you can choose to use other ways if you prefer however the output should be printed clearly for evaluation.
 
 #### Sample input & output
 
