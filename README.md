@@ -54,3 +54,7 @@ These are the relationships we should be able to find:
 
 * We recommend you do not spend more than 6 hours on this problem.
 * If you do not implement all scenarios that is OK.
+
+## Submission
+
+Please email a link to your fork of this repository to `jonny@milkchoc.com.au`.
