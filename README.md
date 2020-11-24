@@ -20,6 +20,7 @@ We recommend input and output via a terminal however, you can choose to use othe
 As an example to add "Dave" to the tree you would run the following command:
 
 ```ADD_TO "mothers_name" "childs_name" "gender"```
+
 ADD_TO Anna Dave Male
 
 ## Final considerations
