@@ -5,7 +5,7 @@ class Family {
   mother: Person;
   children: Person[];
 
-  constructor(args: { father: Person; mother: Person; children: Person[] }) {
+  constructor(args: { father: Person; mother: Person; children?: Person[] }) {
     const { father, mother, children } = args;
     this.father = father;
     this.mother = mother;
